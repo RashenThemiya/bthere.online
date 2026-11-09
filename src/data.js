@@ -423,7 +423,7 @@ export const privacyPolicySections = [
     title: "Contact Us",
     paragraphs: [
       `If you have questions, concerns, requests, or complaints regarding this Privacy Policy or the way Bthere handles personal information, you may contact us using the contact details made available through the Bthere application or website.`,
-      `You may contact Bthere by email at privacy@bthere.lk or support@bthere.lk, or by writing to [Bthere legal company name and registered address].`,
+      `You may contact Bthere by email at info@pentarixlabs.com, or by writing to Pentarix (Pvt) Ltd, 44/31, Sri Sumangala Road South, Kalutara North, Kalutara.`,
     ],
   },
 ];
@@ -754,8 +754,8 @@ export const termsAndConditionsSections = [
     title: "Contact Information",
     paragraphs: [
       `If you have questions, concerns, complaints, or requests relating to these Terms or your use of Bthere, you may contact Bthere through the support functionality available within the application or website.`,
-      `You may also contact us at support@bthere.lk.`,
-      `Formal notices may be sent to [Bthere legal company name], [registered business address].`,
+      `You may also contact us at info@pentarixlabs.com.`,
+      `Formal notices may be sent to Pentarix (Pvt) Ltd, 44/31, Sri Sumangala Road South, Kalutara North, Kalutara.`,
     ],
   },
 ];
