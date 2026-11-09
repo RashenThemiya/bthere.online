@@ -11,7 +11,7 @@ export default function Header() {
     <header>
       <div className="header-inner">
         <Link to="/" onClick={close} aria-label="Bthere home">
-          <img className="logo" src="/logo%20s1.png" alt="Bthere, when it matters" />
+          <img className="logo" src={`${import.meta.env.BASE_URL}logo%20s1.png`} alt="Bthere, when it matters" />
         </Link>
         <nav className={open ? "open" : ""} aria-label="Main navigation">
           {navLinks.map(([label, to]) => (

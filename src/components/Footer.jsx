@@ -6,7 +6,7 @@ export default function Footer() {
     <footer>
       <div className="container footer-top">
         <div className="footer-brand">
-          <Link to="/"><img src="/logo%20s2%20clr.png" alt="Bthere" /></Link>
+          <Link to="/"><img src={`${import.meta.env.BASE_URL}logo%20s2%20clr.png`} alt="Bthere" /></Link>
           <h3>Care when it matters.</h3>
           <p>Discover a more connected way to find services, support, and the people behind them.</p>
         </div>

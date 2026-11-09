@@ -21,7 +21,7 @@ function Hero() {
           <div className="orbit orbit-one" />
           <div className="orbit orbit-two" />
           <div className="hero-phone">
-            <img className="hero-phone-image" src="/provider-home-iphone.png" alt="Bthere provider app home screen" />
+            <img className="hero-phone-image" src={`${import.meta.env.BASE_URL}provider-home-iphone.png`} alt="Bthere provider app home screen" />
           </div>
           <div className="floating-note">
             <span className="note-icon"><Heart size={20} /></span>
@@ -142,9 +142,9 @@ function Audience({ panel }) {
         <div className="audience-visual">
           <div className="audience-circle" />
           {panel.provider ? (
-            <img className="audience-phone-image" src="/service-selection-iphone.png" alt="Bthere service selection app screen" />
+            <img className="audience-phone-image" src={`${import.meta.env.BASE_URL}service-selection-iphone.png`} alt="Bthere service selection app screen" />
           ) : (
-            <img className="audience-phone-image" src="/services-iphone.png" alt="Bthere services app screen" />
+            <img className="audience-phone-image" src={`${import.meta.env.BASE_URL}services-iphone.png`} alt="Bthere services app screen" />
           )}
           <div className="audience-tag"><ShieldCheck size={20} />{panel.provider ? "Your expertise. More possibilities." : "Built around your everyday."}</div>
         </div>
@@ -171,13 +171,13 @@ function Product() {
         <p>One shared experience. So many ways to move forward.</p>
         <div className="product-devices">
           <div className="device-left">
-            <img className="product-phone-image small" src="/caregiving-iphone.png" alt="Bthere caregiving app screen" />
+            <img className="product-phone-image small" src={`${import.meta.env.BASE_URL}caregiving-iphone.png`} alt="Bthere caregiving app screen" />
           </div>
           <div className="device-center">
-            <img className="product-phone-image" src="/services-iphone.png" alt="Bthere services app screen" />
+            <img className="product-phone-image" src={`${import.meta.env.BASE_URL}services-iphone.png`} alt="Bthere services app screen" />
           </div>
           <div className="device-right">
-            <img className="product-phone-image small" src="/provider-home-iphone.png" alt="Bthere provider home app screen" />
+            <img className="product-phone-image small" src={`${import.meta.env.BASE_URL}provider-home-iphone.png`} alt="Bthere provider home app screen" />
           </div>
           <div className="product-glow" />
         </div>
