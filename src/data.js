@@ -606,7 +606,6 @@ export const termsAndConditionsSections = [
       `Service providers must not sell customer personal information or disclose it to unrelated third parties unless they have a lawful basis to do so.`,
       `Where applicable, users must comply with privacy and data-protection laws when collecting or processing information about other Bthere users.`,
     ],
-    privacyLink: true,
   },
   {
     title: "Safety and User Interactions",
