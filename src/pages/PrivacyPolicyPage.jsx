@@ -1,16 +1,13 @@
 import { useEffect } from "react";
-import { privacyPolicySections as sections } from "../data.js";
+import {
+  privacyPolicySections as sections,
+  privacyPolicyLastUpdated,
+} from "../data.js";
 
 export default function PrivacyPolicyPage() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
-  const lastUpdated = new Intl.DateTimeFormat("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  }).format(new Date());
 
   return (
     <main className="privacy-page container">
@@ -25,7 +22,7 @@ export default function PrivacyPolicyPage() {
         </h1>
 
         <p className="privacy-updated">
-          Last Updated: {lastUpdated}
+          Last Updated: {privacyPolicyLastUpdated}
         </p>
       </section>
 

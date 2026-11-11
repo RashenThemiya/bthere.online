@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import { Link } from "react-router-dom";
 import { termsAndConditionsSections as sections } from "../data.js";
 
 export default function TermsAndConditionsPage() {
@@ -31,7 +30,7 @@ export default function TermsAndConditionsPage() {
       </section>
 
       <article className="privacy-content">
-        {sections.map(({ title, paragraphs, privacyLink }) => (
+        {sections.map(({ title, paragraphs }) => (
           <section key={title}>
             <h2>{title}</h2>
 
@@ -39,13 +38,6 @@ export default function TermsAndConditionsPage() {
               <p key={index}>{paragraph}</p>
             ))}
 
-            {privacyLink && (
-              <p>
-                <Link to="/privacy-policy">
-                  Read the Bthere Privacy Policy.
-                </Link>
-              </p>
-            )}
           </section>
         ))}
       </article>

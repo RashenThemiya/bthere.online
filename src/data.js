@@ -230,202 +230,272 @@ export const footerGroups = [
   ] },
 ];
 
+export const privacyPolicyLastUpdated = "10 November 2026";
+
 export const privacyPolicySections = [
   {
-    title: "Purpose and Scope",
-    paragraphs: [
-      `Bthere and its affiliated entities, where applicable, collectively referred to as “Bthere,” “we,” “our,” or “us,” provide this Privacy Policy to explain how information is collected, used, stored, disclosed, and otherwise processed when individuals access or use the Bthere platform. The Bthere platform includes the Bthere mobile application, website, related digital services, communications, customer support channels, service-provider features, payment functionality, and any other services through which this Privacy Policy is made available.`,
-      `Bthere is a service marketplace platform designed to connect customers who require services with individuals or businesses that provide those services. The platform operates under the slogan “When it matters” and is intended to make it easier for customers to find suitable service providers and for service providers to make their services available to customers.`,
-      `This Privacy Policy applies to customers, service providers, visitors to the Bthere website or mobile application, and any other person who interacts with Bthere. References to a “User” may include a customer, service provider, or any individual authorized to access an account on behalf of another person or business.`,
-      `By accessing or using the Bthere platform, creating an account, requesting or offering a service, communicating through the platform, or making or receiving payments through Bthere, you acknowledge the practices described in this Privacy Policy. If you do not agree with this Privacy Policy, you should not use the Bthere platform.`,
-    ],
+    "title": "About this Policy",
+    "paragraphs": [
+      "Applies to: Bthere Customer App, Provider App, website, service bookings, payments and support channels",
+      "Bthere and its affiliated entities, where applicable, collectively referred to as “Bthere,” “we,” “our,” or “us,” is a service marketplace connecting customers with independent individuals and businesses offering services in Sri Lanka. This Privacy Policy explains what personal information we process, why we use it, who may receive it, how we seek to protect it and how to contact us about your privacy."
+    ]
   },
   {
-    title: "Information We Collect",
-    paragraphs: [
-      `The information we collect depends on how you interact with Bthere, the type of account you create, the services you request or offer, the permissions you grant to the application, and the features that you use. We may collect information directly from you, automatically through your use of the platform, from other users, from service providers that support our operations, from verification providers, payment providers, or from publicly available sources where permitted by law.`,
-      `When you create or manage a Bthere account, you may provide information such as your name, email address, mobile number, profile photograph, residential or business address, location, login credentials, communication preferences, and other information needed to create or maintain your account. We may also collect information that you provide when you contact customer support, submit feedback, report a problem, participate in a survey, communicate with another user, or otherwise interact with Bthere.`,
-      `The type of information collected may differ depending on whether you use Bthere as a customer or as a service provider.`,
-    ],
+    "title": "Our privacy commitments",
+    "paragraphs": [
+      "• Collect only what is relevant. We seek to limit personal information to what is needed for accounts, requested services, verification, safety, transactions and legal obligations.",
+      "• Keep verification records private. NIC images, police reports, licences and similar supporting documents are not part of a public provider profile.",
+      "• Protect care-related details. Patient names, hospital or home locations, contact information and private care instructions are confidential booking information.",
+      "• Limit information in Open Requests. A provider should receive only the details needed to assess a request before a booking is confirmed.",
+      "• Respect choices and permissions. Device location permissions, marketing preferences and privacy requests are handled separately from basic account registration."
+    ]
   },
   {
-    title: "Information We Collect from Customers",
-    paragraphs: [
-      `When you use Bthere as a customer, we may collect information relating to the services you are searching for or requesting. This may include the type of service required, the description of your request, the location where the service is needed, the preferred date or time, photographs, files, notes, preferences, instructions, booking information, service history, ratings, reviews, payment information, and communications with service providers.`,
-      `We may also collect information about how you search for services, which providers you view, which providers you communicate with, which services you book, and whether a booking is completed, cancelled, disputed, refunded, or otherwise modified.`,
-      `Where location-based services are enabled, we may collect your general location, such as a city, district, neighbourhood, or postal area, and, where you grant permission, your precise location through your device. Location information may be used to show service providers who are available near you, determine whether a provider serves your area, support service requests, improve search results, and enhance other location-based features.`,
-      `When you submit a service request, certain information may be made available to relevant service providers so they can determine whether they are able to provide the requested service. Depending on the nature of the request, this may include your name or profile name, the type of service requested, the general or specific service location, preferred date and time, the description of your request, photographs or documents you choose to upload, and other information you intentionally include in the request.`,
-      `Bthere does not intend to make sensitive account information, payment credentials, passwords, identification documents, or unrelated personal information publicly available to service providers.`,
-    ],
+    "title": "1. Who operates Bthere and who this Policy covers",
+    "paragraphs": [
+      "Pentarix (Pvt) Ltd, the company operating Bthere, is responsible for determining the purposes and means of the personal information it processes as part of Bthere. Independent service providers may separately be responsible for information they process for their own legitimate business purposes.",
+      "This Policy applies to customers, individual providers, personnel of provider businesses, website visitors and people contacting support. It also explains how information about patients, passengers, children, emergency contacts, pet owners and other people may be handled when another user arranges a service for them.",
+      "Reading this Policy is not the same as giving consent. Where consent is legally required for a particular activity, we will seek it separately and explain the relevant choice."
+    ]
   },
   {
-    title: "Information We Collect from Service Providers",
-    paragraphs: [
-      `If you register as a service provider, we may collect additional information that is necessary to establish, verify, operate, and manage your service-provider account. This information may include your name, contact details, profile photograph, address, business name, service categories, service areas, pricing information, experience, availability, qualifications, licences, certifications, work samples, professional information, and other details relating to the services you offer.`,
-      `Depending on the requirements of the platform and the nature of the services being offered, we may also request information or documents to help verify your identity, background, qualifications, or suitability. This may include a national identity document, passport, driving licence, police clearance certificate, local authority or Grama Niladhari certificate, professional registration, employment history, business registration, insurance information, or other similar documentation where relevant.`,
-      `Information collected for verification purposes may be reviewed by Bthere personnel or by third-party verification providers acting on our behalf. Such information is intended to be used for verification, fraud prevention, platform safety, regulatory compliance, and related purposes and is not ordinarily displayed publicly.`,
-      `Certain information provided by a service provider may be made visible to customers through a public or semi-public provider profile. This may include the provider’s display name, business name, profile photograph, service categories, service description, general service area, pricing information, qualifications, verification status, experience, ratings, reviews, completed-service information, and other information intended to help customers evaluate and select a provider.`,
-      `Sensitive information such as identity-document numbers, passwords, full banking information, verification documents, and private account records will not be intentionally displayed as part of a public service-provider profile unless disclosure is required by law or specifically authorized by the user.`,
-    ],
+    "title": "2. Information we may collect",
+    "paragraphs": [
+      "Information depends on the account, feature and service used. We may collect:",
+      "• Account and profile details: name, mobile number, email address where provided, account and login identifiers, profile photograph, preferred language, address or service area, and account settings.",
+      "• Booking and service details: requested service, date, time, duration, selected provider, addresses or map pins, pickup/drop-off locations, requirements, messages, booking status, ratings, reviews, cancellations and complaint evidence.",
+      "• Provider and business details: service categories, experience, availability, work samples, business or parking details, licences, qualifications, insurance and relevant property or vehicle information.",
+      "• Identity and eligibility documents: NIC or other identification records, photographs/selfies, driving licences, police clearance reports, Grama Niladhari certificates, business registration and other documents required for a particular service, where applicable.",
+      "• Payments and transaction records: amount, payment method type, payment status, transaction reference, fees, commissions, deposits, refunds, penalties, settlements and provider payouts. Card credentials may be collected directly by a payment provider.",
+      "• Communications and support information: messages, support requests, notifications, feedback, complaints and records supplied for investigations or dispute resolution.",
+      "• Device and usage information: IP address, device and app version, operating system, security events, crash reports and feature-use information obtained through technologies actually used by the platform.",
+      "• Location information: manually entered locations, general search areas, addresses, map pins, route information and precise device location when used with appropriate permissions.",
+      "We may receive related information from other users, payment partners, verification services, authentication services and other sources where lawful. We do not ask users to submit unrelated sensitive information.",
+      "Some details are necessary to provide a service. If required contact, location, verification or payment information is not provided, an account may not be approved or a booking may not be completed. Optional fields will be identified when collected."
+    ]
   },
   {
-    title: "Payment and Transaction Information",
-    paragraphs: [
-      `Bthere may provide functionality that allows customers to pay for services through the platform and enables service providers to receive payments or payouts. When payments are made through Bthere, we may collect or receive information relating to the transaction, including the payment amount, currency, payment method, payment status, transaction reference, booking or service reference, refund status, payout information, platform fees, transaction date, and other information necessary to process or manage the transaction.`,
-      `Bthere may use one or more third-party payment processors, payment gateways, banks, financial-service providers, or similar vendors to process payments, refunds, and payouts. In such cases, certain payment information may be collected directly by the payment provider rather than by Bthere. Bthere may receive only limited payment-related information, such as confirmation that a payment has been successful or unsuccessful, transaction identifiers, payment amounts, masked card information, refund status, payout status, or other transaction records.`,
-      `Unless specifically required by the payment architecture and handled in accordance with applicable law and relevant security standards, Bthere does not intend to store complete credit-card numbers, security codes, online-banking passwords, or other highly sensitive payment credentials.`,
-      `Where a customer requests a cancellation or refund, Bthere may collect and process information necessary to review, approve, reject, or complete that request. This may include the booking details, reason for cancellation, reason for the refund request, payment status, amount paid, amount requested for refund, service-provider response, supporting evidence, dispute information, communication records, and the final refund decision.`,
-      `Refunds may be full, partial, or unavailable depending on the circumstances of the booking, the stage of the service, work already performed, expenses already incurred by the service provider, the reason for cancellation, any applicable cancellation rules, and any other conditions set out in the Bthere Refund Policy.`,
-      `Where a refund is approved, the refund may be processed through the original payment method or through another method supported by Bthere or the relevant payment provider. The time required for the refunded amount to appear may depend on the payment provider, bank, card issuer, or other financial institution involved in the transaction.`,
-      `Bthere may retain information relating to refunds, cancellations, payment disputes, chargebacks, and reversed transactions for accounting, fraud-prevention, customer-support, dispute-resolution, audit, regulatory, and legal purposes.`,
-      `Users should review the Bthere Refund Policy for detailed information regarding refund eligibility, cancellation conditions, non-refundable amounts, partial refunds, refund processing, and dispute procedures.`,
-    ],
+    "title": "3. Information for each Bthere service category",
+    "paragraphs": [
+      "The categories below describe information that may be needed when the relevant service or feature is available and selected. The app may show shorter, specific notices when requesting information for an individual booking."
+    ]
   },
   {
-    title: "Information from Other Sources",
-    paragraphs: [
-      `We may receive information about users from third parties where permitted by law. This may include information from payment processors, identity-verification providers, service-provider verification partners, analytics providers, cloud-service providers, app stores, social-login providers, business partners, or other services integrated with Bthere.`,
-      `If users are allowed to register or sign in using a third-party account, such as a Google, Apple, or social-media account, Bthere may receive certain information associated with that account, subject to the permissions selected by the user and the policies of the relevant third-party provider.`,
-      `We may also receive information that assists us in preventing fraud, verifying identity, improving account security, or determining whether a user is eligible to access certain features.`,
-    ],
+    "title": "3.1 Patient Care – non-medical assistance only",
+    "paragraphs": [
+      "Bthere Patient Care is intended for non-medical support, such as patient companionship, assistance with permitted daily activities and mobility support in hospitals or homes. Bthere does not offer clinical nursing, diagnosis, medical treatment, medication administration, emergency ambulance services or other medical procedures through this category.",
+      "Hospital Care and Home Care bookings may involve the patient's name and age, hospital name, ward/bed number, home address, contact or emergency contact numbers, preferred caregiver gender or language, dates, working hours and special instructions. Some instructions may incidentally reveal information about a person's health or disability even though the service is non-medical.",
+      "• We use these details to organize and fulfil the requested non-medical service, coordinate the provider, respond to safety concerns and handle legitimate disputes.",
+      "• Do not upload diagnoses, medical reports or other medical records unless a specific, necessary and lawful process clearly requests them.",
+      "• Where a booking is made for another person, the person placing it must have appropriate authority to provide the information. Additional legal safeguards may apply to children or sensitive personal data.",
+      "• Patient names, sensitive instructions, hospital/bed information and home addresses should be shared only with the selected provider and authorized personnel who need them for fulfilment."
+    ]
   },
   {
-    title: "Information That Is Automatically Collected",
-    paragraphs: [
-      `When you access or use Bthere, we may automatically collect certain technical and usage information. This may include your IP address, device type, browser type, operating system, application version, unique device identifiers, device language, access time, referring pages, pages or screens viewed, features used, interactions with the platform, crash information, performance information, and other technical data relating to your use of Bthere.`,
-      `We may use this information to maintain the platform, improve performance, identify technical problems, understand how users interact with Bthere, develop new features, detect unauthorized activity, prevent fraud, and improve overall user experience.`,
-      `If Bthere uses cookies, software development kits, analytics tools, pixels, or similar technologies, those technologies may also collect information about usage, device activity, navigation, and interaction with the platform.`,
-    ],
+    "title": "3.2 Ride and Transport",
+    "paragraphs": [
+      "Transport bookings, including assisted Care Ride, airport transport, vehicle or goods transport and relevant rental/driver services, may require passenger or customer names, phone numbers, pickup and destination locations, planned route, booking time, vehicle requirements, special instructions and emergency contacts. Drivers and transport providers may provide vehicle details, photographs, driving credentials and insurance documents.",
+      "We use this information for matching, routing, coordination, pricing, payment, safety and dispute resolution. Care Ride means assisted transportation, not an ambulance or medical transport service. If real-time tracking or live sharing is enabled, the app should explain when tracking starts and stops and who can view it."
+    ]
   },
   {
-    title: "Location Information",
-    paragraphs: [
-      `Bthere may collect location information because the platform is designed to connect customers with service providers who operate in relevant geographic areas.`,
-      `We may collect general location information, such as city, district, neighbourhood, postal area, or a location derived from an IP address. If the Bthere mobile application requests device-location access and you grant permission, we may also collect precise GPS-based location information.`,
-      `Precise location may be used to help identify nearby service providers, determine service availability, support location-based searching, improve service matching, assist with booking and service fulfilment, and support security or fraud-prevention activities.`,
-      `Users may be able to control location permissions through their mobile-device settings. If location permissions are disabled, certain Bthere features may not operate correctly or may provide less accurate results.`,
-    ],
+    "title": "3.3 Day-to-Day Services",
+    "paragraphs": [
+      "For household assistance, labour or other day-to-day services, Bthere may process service descriptions, dates, customer contact details, work-site addresses, access instructions, task photographs and relevant provider qualifications. We restrict disclosure of exact home addresses and private-property images to what is necessary for the agreed service."
+    ]
   },
   {
-    title: "Communications between Users",
-    paragraphs: [
-      `Bthere may provide functionality that allows customers and service providers to communicate with one another. Communication features may include in-app messaging, notifications, telephone communication, email, SMS, or other forms of communication supported by the platform.`,
-      `We may store or process communications made through Bthere where necessary to provide the service, support users, investigate complaints, detect fraud, resolve disputes, enforce platform rules, improve safety, or maintain records.`,
-      `Where call recording, communication monitoring, or transcription features are introduced in the future, Bthere will provide appropriate notice and will process such information only in accordance with applicable law.`,
-      `Users should avoid sending highly sensitive personal information, passwords, financial credentials, or unrelated confidential information through platform messaging features.`,
-    ],
+    "title": "3.4 Tourism Services",
+    "paragraphs": [
+      "For tourism-related requests such as transport, vehicle rental, accommodation coordination or trip support, we may process requested destinations, travel dates, itineraries, booking contacts, accommodation details and service preferences. Where lawful and necessary, a travel partner may request identification or guest information directly. We aim to disclose only the details needed by the provider handling the relevant reservation."
+    ]
   },
   {
-    title: "Photos, Documents, Reviews and User Content",
-    paragraphs: [
-      `Users may upload or submit information through Bthere, including profile photographs, service-request images, provider work samples, verification documents, certificates, reviews, ratings, comments, complaint evidence, and other files or content.`,
-      `Information uploaded for public display, such as service-provider profile content, work samples, reviews, and ratings, may be visible to other users of the platform.`,
-      `Information submitted for verification, identity checks, complaints, or support purposes is intended to be accessed only by authorized persons, service providers acting on our behalf, or legal authorities where disclosure is required or permitted by law.`,
-      `Users are responsible for ensuring that content they upload does not unlawfully disclose personal information relating to another person.`,
-    ],
+    "title": "3.5 Parking",
+    "paragraphs": [
+      "Parking services may use vehicle type and registration number, requested parking location, start and end times, duration, reservation status, payment details and incident or overstay information.",
+      "Parking providers may give property or business details, evidence of authority to offer spaces, location photographs, capacity and availability information.",
+      "Bthere may use location, vehicle type and duration to apply Admin-managed parking prices, and may process related extension, overstay, rebooking, compensation or dispute records. A parking location appearing on a map does not by itself guarantee a bookable space; reservation confirmation depends on the applicable provider arrangement and availability process."
+    ]
   },
   {
-    title: "How We Use Your Information",
-    paragraphs: [
-      `We may use the information we collect to provide, maintain, operate, secure, and improve Bthere. This includes using information to create and manage accounts, verify users, match customers with service providers, display relevant service-provider profiles, process service requests, support bookings, facilitate communications, process payments, process payouts, provide customer support, send notifications, respond to inquiries, prevent fraud, investigate complaints, resolve disputes, improve recommendations, conduct analytics, improve platform performance, develop new services, and comply with legal obligations.`,
-      `We may also use information to detect suspicious or unauthorized activity, enforce our terms and platform rules, protect customers, service providers, Bthere, and third parties, and investigate conduct that may threaten the safety or security of users or the platform.`,
-      `Where permitted by law, we may use account and platform information to communicate with users regarding promotions, updates, new services, product changes, or information that may be relevant to their use of Bthere. Users may be able to opt out of certain marketing communications while continuing to receive transactional, account-related, payment-related, booking-related, or security-related messages.`,
-    ],
+    "title": "3.6 Photography",
+    "paragraphs": [
+      "Photography bookings may involve customer details, event venue, schedule, selected package, reference photographs and communications. If photographs or videos are uploaded, stored, delivered, reviewed or shared through Bthere, the platform may process images of identifiable individuals, including children.",
+      "• Images submitted privately for a booking are not automatically authorized for public advertising or a provider portfolio.",
+      "• Publication, promotional reuse and use of images of children require appropriate permissions and safeguards under applicable law.",
+      "• Independent photographers may have separate obligations concerning photographs they create and hold outside Bthere. Copyright and image-use permissions should also be addressed in the applicable photography agreement."
+    ]
   },
   {
-    title: "How We Disclose Your Information",
-    paragraphs: [
-      `Bthere may disclose information where necessary to provide the platform and its services. Information may be shared with other users when required to facilitate service requests, bookings, communications, reviews, payments, or service fulfilment.`,
-      `For example, customer service-request information may be shared with relevant service providers, and information contained in a service provider’s public profile may be made available to customers.`,
-      `We may disclose information to vendors and service providers that perform functions on our behalf, including payment processing, cloud hosting, identity verification, background verification, analytics, messaging, notifications, email delivery, customer support, fraud prevention, security, technical support, and platform infrastructure. These vendors may process information only as necessary to provide the services they perform for Bthere and subject to appropriate contractual or legal obligations.`,
-      `We may disclose information when required to comply with legal obligations, court orders, regulatory requirements, law-enforcement requests, or other lawful processes. We may also disclose information where we reasonably believe it is necessary to protect the rights, safety, property, or security of Bthere, its users, service providers, employees, partners, or the public.`,
-      `If Bthere is involved in a merger, acquisition, restructuring, financing, sale of assets, or similar business transaction, user information may be transferred or disclosed as part of that transaction, subject to applicable law.`,
-    ],
+    "title": "3.7 Pet Services",
+    "paragraphs": [
+      "Pet-related bookings may involve the owner's name, contact information, location, pet type, service timing, care instructions, emergency contacts and relevant veterinary contact details. We use these details for service coordination, safety, support and legitimate disputes, and protect the owner's address and third-party contact information."
+    ]
   },
   {
-    title: "Service Provider Responsibilities",
-    paragraphs: [
-      `Service providers who receive customer information through Bthere are expected to use such information only for legitimate purposes connected with the requested or agreed service.`,
-      `A service provider should not use customer information for unrelated marketing, unauthorized contact, identity misuse, data resale, harassment, or any unlawful purpose.`,
-      `Service providers are responsible for protecting any customer information they obtain outside the Bthere platform and for complying with any privacy or data-protection obligations that apply to their own business activities.`,
-    ],
+    "title": "3.8 Equipment Renting",
+    "paragraphs": [
+      "Equipment bookings may involve renter identity and contact information, collection or delivery location, rental dates, item type, deposit or payment information, equipment-condition photographs, return records, damage reports and related dispute evidence. This information is used for booking administration, identity or eligibility checks where appropriate, deposits, returns, claims and customer support."
+    ]
   },
   {
-    title: "Fraud, Safety and Platform Integrity",
-    paragraphs: [
-      `Bthere may process information to identify, investigate, and prevent fraud, misuse, unsafe behaviour, fake accounts, identity misrepresentation, false service listings, payment fraud, stolen payment methods, harassment, suspicious booking activity, false reviews, abuse of platform functionality, or attempts to circumvent platform policies.`,
-      `Where necessary, we may restrict, suspend, investigate, or terminate accounts, prevent certain transactions, require further verification, or cooperate with relevant authorities.`,
-      `Information relating to fraud, security, disputes, and enforcement may be retained for a longer period where reasonably necessary to protect users and the platform.`,
-    ],
+    "title": "4. Why we use information and legal grounds",
+    "paragraphs": [
+      "Bthere processes relevant information to:",
+      "• Establish and secure accounts; authenticate users and prevent unauthorized access.",
+      "• Verify providers and their eligibility to offer the selected services.",
+      "• Present provider listings, match requests, manage availability and fulfil bookings.",
+      "• Communicate between customers, providers and support teams.",
+      "• Calculate prices, collect or facilitate payments, administer commissions, refunds, deposits and payouts.",
+      "• Respond to safety concerns, investigate complaints and prevent fraud or platform misuse.",
+      "• Maintain, troubleshoot and improve app performance and service reliability.",
+      "• Meet applicable legal, tax, accounting, regulatory and recordkeeping obligations.",
+      "• Send marketing messages where legally permitted and subject to appropriate choices.",
+      "The appropriate basis depends on the processing: it may include steps requested before entering a contract, performance of a contract, compliance with a legal obligation, a legitimate interest where permitted and appropriately balanced, consent where necessary, or another ground available under applicable law. Sensitive categories of personal data, including information that reveals health status or relates to children, require additional legal conditions and safeguards. Consent to general terms or acknowledgment of this Policy is not a substitute for a lawful basis."
+    ]
   },
   {
-    title: "Data Security",
-    paragraphs: [
-      `Bthere uses reasonable administrative, technical, and organizational measures intended to protect information from unauthorized access, loss, misuse, alteration, disclosure, or destruction.`,
-      `Such measures may include secure authentication, password protection, encryption, role-based access controls, restricted administrative access, activity logging, secure server infrastructure, monitoring, secure communication protocols, and security practices used by our technology and payment providers.`,
-      `However, no system, website, mobile application, network, or method of electronic transmission can be guaranteed to be completely secure. Users should take reasonable steps to protect their devices, passwords, login credentials, and account access.`,
-    ],
+    "title": "5. What providers see before and after a booking",
+    "paragraphs": [
+      "Open Request does not mean that every provider can see all customer information.",
+      "Bthere seeks to limit access according to the booking stage:",
+      "• Before acceptance: Eligible providers may receive the requested service, approximate area, schedule and non-sensitive requirements sufficient to decide whether to respond.",
+      "• After confirmation: The selected provider may receive necessary contact details, exact location, route or entry instructions and relevant service-specific information.",
+      "• During service: The provider and customer may use booking information only as needed for the agreed activity, safety and coordination.",
+      "• After completion: Access to unnecessary booking-only information should be restricted; relevant transaction or dispute records may remain for justified purposes.",
+      "Providers must not use booking information for unrelated marketing, harassment, resale, identity misuse or unauthorized contact. Public provider profiles may display approved names, photographs, services, general locations, verification status and reviews, but not private verification documents."
+    ]
   },
   {
-    title: "Data Retention",
-    paragraphs: [
-      `We retain personal information for as long as reasonably necessary to provide the Bthere platform and services, maintain accounts, complete transactions, process payments, resolve disputes, investigate fraud, comply with legal obligations, maintain records, enforce agreements, and protect the rights and safety of users and Bthere.`,
-      `The duration for which specific information is retained may depend on the type of information, the purpose for which it was collected, legal requirements, accounting requirements, security considerations, dispute-resolution requirements, and whether an account remains active.`,
-      `When information is no longer reasonably required, we may delete it, anonymize it, or otherwise process it in accordance with applicable law.`,
-      `Certain information may continue to be retained after an account is closed where retention is required for legal, accounting, fraud-prevention, safety, dispute-resolution, enforcement, or regulatory reasons.`,
-    ],
+    "title": "6. Provider identity checks and confidential documents",
+    "paragraphs": [
+      "Based on the services offered, Bthere may request and review identity documents, selfies, police reports, driving licences, vehicle registration or insurance, GN certificates, business registration or property-use authorizations. These are used for identity and eligibility review, fraud prevention, user safety and relevant legal compliance.",
+      "NIC images, police reports, full identification numbers, driving-licence images, private verification files and banking credentials must not be published on customer-facing profiles.",
+      "They are intended for access only by authorized verification staff and necessary service partners, subject to appropriate restrictions.",
+      "A displayed verification status indicates that a defined verification step was completed; it is not a guarantee of a provider's future conduct, professional skill or complete safety. Bthere may request updated evidence where documents expire or information changes."
+    ]
   },
   {
-    title: "Account Access, Correction and Deletion",
-    paragraphs: [
-      `Users may be able to access and update certain account information directly through the Bthere application or website.`,
-      `Users may also request correction of inaccurate information or deletion of their account, subject to applicable legal requirements and legitimate retention needs.`,
-      `If an account is deleted, the user’s public profile may be removed or disabled. Certain information may still be retained where necessary to maintain financial records, comply with legal obligations, prevent fraud, resolve disputes, investigate complaints, enforce agreements, or protect platform security.`,
-      `Where deletion of certain information makes it impossible to provide a service, the user may no longer be able to access some or all Bthere functionality.`,
-    ],
+    "title": "7. Location data, maps and device permissions",
+    "paragraphs": [
+      "Bthere may use approximate location, an address you provide, a map pin or precise device location to find relevant services and fulfil a booking. Device location access is controlled through the applicable operating-system permissions.",
+      "• Nearby discovery: A general area may be sufficient for initial results; you may be able to enter a location manually where supported.",
+      "• Confirmed bookings: The provider may need an exact address, pickup point or service location.",
+      "• Trips and delivery: Route or live location may be processed where the feature is available and needed for active service coordination or safety.",
+      "• Parking and venue-based bookings: A selected parking or event location may be used without needing continuous customer tracking.",
+      "If location permission is disabled, some features may be unavailable or less accurate. Granting device permission does not by itself replace any additional lawful basis or notice that may be necessary for a particular use. We do not intend to retain detailed live location histories longer than justified by the service or lawful needs."
+    ]
   },
   {
-    title: "Marketing and Communication Preferences",
-    paragraphs: [
-      `Bthere may send users communications relating to their account, bookings, payments, service requests, security, policy changes, and platform updates.`,
-      `Where permitted by law, we may also send promotional or marketing communications.`,
-      `Users may be able to unsubscribe from marketing communications through the unsubscribe mechanism provided in the communication or through account settings where such controls are available.`,
-      `Opting out of marketing communications does not prevent Bthere from sending important operational, transactional, payment-related, booking-related, security-related, or legal communications.`,
-    ],
+    "title": "8. Payments, deposits, refunds and payouts",
+    "paragraphs": [
+      "Bthere may work with payment gateways, banks or financial partners for payments, digital wallet functionality, provider payouts, refunds or deposits, where supported. Transaction records may include amount, currency, booking reference, masked payment information, service fee, commission, deposit, penalty, refund or payout status.",
+      "Complete card details or security codes may be handled directly by a payment processor rather than Bthere. Do not send card security codes, banking passwords or complete card numbers in chats or support messages. We use payment records for service administration, reconciliation, fraud prevention, complaints, accounting and legal compliance.",
+      "The rules governing charges, cancellations, parking penalties, rental damage, deposits and compensation belong in the applicable Terms, Service Rules and Refund Policy. This Privacy Policy explains the use of personal data connected with those events."
+    ]
   },
   {
-    title: "Privacy of Minors",
-    paragraphs: [
-      `Bthere is intended for users who are legally permitted to create an account and enter into transactions for services.`,
-      `Persons below the minimum age required by applicable law should not independently create or use a Bthere account unless the platform expressly permits such use with appropriate parental or guardian involvement.`,
-      `If Bthere becomes aware that information has been collected from a child in circumstances where such collection is not permitted, we may take steps to delete the relevant account and information in accordance with applicable law.`,
-    ],
+    "title": "9. Messages, calls, notifications, reviews and uploaded content",
+    "paragraphs": [
+      "We may process support tickets, messages, booking-related notifications, user reviews and files supplied to investigate complaints. Public reviews and provider portfolio content may be visible to others; private identity files, addresses and care instructions should not be posted publicly.",
+      "Where a feature involves recording, transcribing or monitoring calls or communications, Bthere will provide appropriate notice and comply with the applicable legal requirements before that processing is introduced or used. Users should avoid sharing unrelated sensitive data in chat or reviews."
+    ]
   },
   {
-    title: "Third-Party Services",
-    paragraphs: [
-      `The Bthere platform may contain links to, or integrations with, third-party services, including payment gateways, mapping services, authentication providers, analytics services, cloud-service providers, and communication services.`,
-      `These third parties may process information under their own terms and privacy policies.`,
-      `Bthere is not responsible for the privacy practices of independent third-party services that are not operated or controlled by Bthere.`,
-      `Users should review the privacy policies of such providers where appropriate.`,
-    ],
+    "title": "10. Who may receive personal information",
+    "paragraphs": [
+      "Personal information may be disclosed only for relevant purposes to:",
+      "• Other booking participants: an eligible provider or customer, with information limited by role, service and booking stage.",
+      "• Payment and settlement partners: payment gateways, banks and payout providers.",
+      "• Operational suppliers: cloud hosting, authentication, verification, maps, communications, analytics, security and customer-support vendors, as necessary for their function.",
+      "• Professional advisers or insurers: where genuinely necessary to manage lawful claims, disputes or obligations.",
+      "• Public authorities or courts: where legally required or permitted.",
+      "• A business successor: where information is transferred in a legitimate restructuring or acquisition with appropriate safeguards.",
+      "Some service providers are independent businesses. If they independently determine how to use personal information after a service, they may have separate privacy obligations. Bthere does not authorize them to use customer records for unrelated purposes. We do not sell private identity documents or confidential patient-care details to advertising or data-broker businesses."
+    ]
   },
   {
-    title: "Changes to This Privacy Policy",
-    paragraphs: [
-      `Bthere may update this Privacy Policy from time to time to reflect changes in the platform, new features, changes to payment or verification processes, operational changes, changes in law, or other relevant developments.`,
-      `When we update this Privacy Policy, we may publish the revised version through the Bthere application or website and update the “Last Updated” date shown at the beginning of the Policy.`,
-      `Where required or appropriate, we may also notify users through the platform, email, or other communication channels.`,
-      `Continued use of Bthere after an updated Privacy Policy becomes effective may be subject to the updated version.`,
-    ],
+    "title": "11. Third-party services and processing outside Sri Lanka",
+    "paragraphs": [
+      "Bthere may use third-party services such as mapping tools, payment gateways, cloud hosting, messaging, verification and analytics. Their processing activities may sometimes be governed by their own privacy notices when they act independently.",
+      "Depending on the infrastructure and partners used, personal data may be stored or accessed outside Sri Lanka. Where this happens, Bthere will assess applicable Sri Lankan cross-border data-processing requirements and use permitted contractual, technical or other safeguards. You may contact us for information about material recipient categories and relevant overseas processing, subject to applicable law and legitimate confidentiality limitations."
+    ]
   },
   {
-    title: "Contact Us",
-    paragraphs: [
-      `If you have questions, concerns, requests, or complaints regarding this Privacy Policy or the way Bthere handles personal information, you may contact us using the contact details made available through the Bthere application or website.`,
-      `You may contact Bthere by email at privacy@bthere.lk or support@bthere.lk, or by writing to [Bthere legal company name and registered address].`,
-    ],
+    "title": "12. Cookies, analytics and matching",
+    "paragraphs": [
+      "When implemented, cookies, mobile software development kits, crash reporting and analytics may help maintain sessions, detect abuse, troubleshoot errors and understand the performance of the service. Any non-essential tracking or advertising technology will be subject to the disclosures and choices required by applicable law.",
+      "Search and matching may take account of location, service requirements, availability and provider eligibility. Where automated processing creates a decision with significant legal or comparable effects, Bthere will assess whether specific legal disclosures, safeguards or review mechanisms are required."
+    ]
   },
+  {
+    "title": "13. Security and confidentiality",
+    "paragraphs": [
+      "We seek to apply security measures appropriate to the information and risks involved. These may include secure authentication, restricted staff permissions, controlled access to documents, encryption where appropriate, monitoring, secure software development and security-incident procedures.",
+      "Sensitive non-medical care instructions, children's information, identity documents and payment records require more restricted access than public service descriptions. No online platform can guarantee complete security. Users should protect devices and credentials and promptly notify support of suspected misuse."
+    ]
+  },
+  {
+    "title": "14. Retention and deletion",
+    "paragraphs": [
+      "We keep information for no longer than reasonably necessary for the purpose for which it is used, subject to applicable legal retention rules, payment records, safety investigations, audits, disputes and legitimate claims. The criteria vary by data type:",
+      "• Accounts and profiles: while needed for an account and justified follow-up after closure.",
+      "• Verification documents: for verification, continuing eligibility and lawful retention needs; unnecessary copies should be securely removed or de-identified.",
+      "• Care-related booking details: only for necessary service coordination, safety follow-up and justified disputes, with stricter access where sensitive.",
+      "• Bookings and financial records: for transaction administration, accounting, refunds and legal obligations.",
+      "• Location and technical logs: only for justified operational, safety, troubleshooting or security purposes; not indefinitely by default.",
+      "• Messages, photographs and complaint evidence: according to the relevant service, content purpose and applicable dispute or record keeping needs.",
+      "Where appropriate, information is deleted or de-identified after it is no longer needed. A deletion request may not remove records that must lawfully be retained or are required for a legitimate ongoing claim."
+    ]
+  },
+  {
+    "title": "15. Privacy requests and your choices",
+    "paragraphs": [
+      "You can contact Bthere to ask about information associated with your account, correct inaccurate information, request account closure or deletion, change optional marketing preferences, or report a privacy concern. We may verify the identity of the requester before taking action and explain any lawful limitations on the request.",
+      "Where processing relies on consent, you may ask how to withdraw that consent. Withdrawal does not invalidate earlier lawful processing and may not prevent processing supported by another lawful ground. You can manage device permissions through your phone settings.",
+      "Sri Lanka's Personal Data Protection Act is being brought into operation in stages.",
+      "Certain statutory data-subject rights and remedies may not yet be in force on the date of this version; Bthere will respond to requests in line with the laws currently in force and may offer reasonable privacy assistance voluntarily. Applicable rights and procedures will be updated as the law develops."
+    ]
+  },
+  {
+    "title": "16. Children and bookings made for other people",
+    "paragraphs": [
+      "Accounts must be created by persons eligible to use the platform under the Terms of Service and applicable law. Where a booking involves a child or a person needing assistance, an authorized parent, guardian or representative should arrange it and provide the necessary permissions.",
+      "Users providing a patient's, passenger's, emergency contact's or another person's information must have the appropriate authority or other lawful grounds to do so. Bthere will take additional precautions where the data concerns children or is otherwise sensitive. If you believe a child's information was supplied improperly, please contact us."
+    ]
+  },
+  {
+    "title": "17. Marketing and service communications",
+    "paragraphs": [
+      "Bthere may send necessary messages about accounts, bookings, payments, security, requests and policy changes. Promotional messages are separate; they are sent only where permitted and subject to relevant marketing choices or consent requirements. You may opt out through available unsubscribe features or by contacting us.",
+      "We do not use confidential care instructions or private provider verification documents to build advertising audiences. Declining marketing does not prevent essential service or security communications."
+    ]
+  },
+  {
+    "title": "18. Safety, fraud and complaints",
+    "paragraphs": [
+      "We may process relevant booking, account and transaction records to investigate fraud, harassment, impersonation, fake provider credentials, unsafe behaviour, security incidents, damaged rented equipment, parking disputes, refunds or other policy violations. We may restrict an account, request further verification or share limited information with appropriate parties when necessary and lawful.",
+      "Users may contact support to report inaccurate information, contest a decision or raise a complaint. We will assess such reports proportionately and keep confidential evidence restricted to those with a valid reason to access it."
+    ]
+  },
+  {
+    "title": "19. Changes to this Policy",
+    "paragraphs": [
+      "We may update this Policy to reflect new services, changes in information processing, security practices or applicable law. The latest version and its update date will be available through Bthere. Where required, we will give additional notice and obtain new consent if a new activity legally requires it."
+    ]
+  },
+  {
+    "title": "20. Contact and privacy concerns",
+    "paragraphs": [
+      "For questions about this Policy, correction or deletion requests, or concerns about how your information is used, contact:",
+      "Bthere privacy: info@pentarixlabs.com",
+      "General support: info@pentarixlabs.com",
+      "Responsible legal entity: Pentarix (Pvt) Ltd",
+      "Registered address: 44/31, South Sri Sumangala road, Kalutara North, Kalutara, Sri Lanka.",
+      "You may also seek information about Sri Lanka's Data Protection Authority at https://www.dpa.gov.lk/ Availability of any formal statutory complaint or remedy procedure depends on the provisions of law in force at the relevant time."
+    ]
+  }
 ];
 
 export const termsAndConditionsSections = [
@@ -606,7 +676,6 @@ export const termsAndConditionsSections = [
       `Service providers must not sell customer personal information or disclose it to unrelated third parties unless they have a lawful basis to do so.`,
       `Where applicable, users must comply with privacy and data-protection laws when collecting or processing information about other Bthere users.`,
     ],
-    privacyLink: true,
   },
   {
     title: "Safety and User Interactions",
@@ -748,14 +817,13 @@ export const termsAndConditionsSections = [
       `The Privacy Policy explains how Bthere collects, uses, stores, discloses, and protects personal information relating to customers, service providers, payments, location information, communications, verification documents, and use of the platform.`,
       `If you do not agree with Bthere’s handling of information as described in the Privacy Policy, you should not use the platform.`,
     ],
-    privacyLink: true,
   },
   {
     title: "Contact Information",
     paragraphs: [
       `If you have questions, concerns, complaints, or requests relating to these Terms or your use of Bthere, you may contact Bthere through the support functionality available within the application or website.`,
-      `You may also contact us at support@bthere.lk.`,
-      `Formal notices may be sent to [Bthere legal company name], [registered business address].`,
+      `You may also contact us at info@pentarixlabs.com.`,
+      `Formal notices may be sent to Pentarix (Pvt) Ltd, 44/31, Sri Sumangala Road South, Kalutara North, Kalutara.`,
     ],
   },
 ];
